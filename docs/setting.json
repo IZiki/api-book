@@ -6,7 +6,7 @@
     },
     "header":{
         "title":"Api-Book",
-        "repository":"https://github.com/api-book/api-book"
+        "repository":"https://github.com/IZiki/api-book"
     },
     "menu":[
         {
@@ -65,8 +65,8 @@
         },
         "copyright":{
             "time" : "2020",
-            "site" : "api-book.com",
-            "url" : "https://api-book.com"
+            "site" : "iziki.cc",
+            "url" : "https://iziki.cc"
         }
     }
 }
