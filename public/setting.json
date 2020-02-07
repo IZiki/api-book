@@ -10,16 +10,12 @@
     },
     "menu":[
         {
-            "name":"FrontEnd",
-            "groupname":"fe"
-        },
-        {
-            "name":"BackEnd",
-            "groupname":"be"
+            "name":"Code",
+            "groupname":"code"
         },
         {
             "name":"Github",
-            "url":"https://github.com/api-book"
+            "url":"https://github.com/iziki"
         }
     ],
     "nav":[
@@ -28,35 +24,28 @@
             "path":"/",
             "title":"",
             "devonly":false,
-            "group":"fe"
+            "group":"code"
         },
         {
             "name":"JS",
             "path":"/js",
             "title":"",
             "devonly":false,
-            "group":"fe"
+            "group":"code"
         },
         {
-            "name":"Node",
-            "path":"/node",
+            "name":"Go",
+            "path":"/go",
             "title":"",
             "devonly":false,
-            "group":"be"
+            "group":"code"
         },
         {
-            "name":"Database",
-            "path":"/db",
+            "name":"Git",
+            "path":"/git",
             "title":"",
-            "devonly":true,
-            "group":"be"
-        },
-        {
-            "name":"Linux",
-            "path":"/linux",
-            "title":"",
-            "devonly":true,
-            "group":"be"
+            "devonly":false,
+            "group":"code"
         }
     ],
     "footer":{
