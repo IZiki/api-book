@@ -1,11 +1,11 @@
 {
     "meta":{
-        "title":"Api-Book",
-        "keywords":"api-book,api,notebook,vue",
+        "title":"iZiki-Book",
+        "keywords":"iziki-book,api,notebook,vue",
         "description":"Build your personal api-book easily"
     },
     "header":{
-        "title":"Api-Book",
+        "title":"iziki-Book",
         "repository":"https://github.com/IZiki/api-book"
     },
     "menu":[
@@ -34,6 +34,41 @@
             "group":"code"
         },
         {
+            "name":"PHP",
+            "path":"/php",
+            "title":"",
+            "devonly":false,
+            "group":"code"
+        },
+        {
+            "name":"Python",
+            "path":"/python",
+            "title":"",
+            "devonly":false,
+            "group":"code"
+        },
+        {
+            "name":"Lua",
+            "path":"/lua",
+            "title":"",
+            "devonly":false,
+            "group":"code"
+        },
+        {
+            "name":"C",
+            "path":"/c",
+            "title":"",
+            "devonly":false,
+            "group":"code"
+        },
+        {
+            "name":"Java",
+            "path":"/java",
+            "title":"",
+            "devonly":false,
+            "group":"code"
+        },
+        {
             "name":"Go",
             "path":"/go",
             "title":"",
@@ -46,21 +81,28 @@
             "title":"",
             "devonly":false,
             "group":"code"
+        },
+        {
+            "name":"Linux",
+            "path":"/linux",
+            "title":"",
+            "devonly":false,
+            "group":"code"
         }
     ],
     "footer":{
         "social":{
             "email":{
-                "title":"Email to u",
-                "url":"your email"
+                "title":"Email",
+                "url":"2734529268@qq.com"
             },
             "twitter":{
                 "title":"Your twitter",
                 "url":"your twitter"
             },
             "weibo":{
-                "title":"Your weibo",
-                "url":"your weibo"
+                "title":"weibo",
+                "url":"17683232512"
             }
         },
         "copyright":{
